@@ -1,4 +1,4 @@
-### Hi there 👋 Hello I'm Taehee!
+### Hi there 👋 I'm KimTaering!
 
 <!--
 **KimTaering/KimTaering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
